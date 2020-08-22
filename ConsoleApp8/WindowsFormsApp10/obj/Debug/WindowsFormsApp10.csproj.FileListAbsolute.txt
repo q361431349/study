@@ -1,0 +1,10 @@
+D:\C#test\ConsoleApp8\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\C#test\ConsoleApp8\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\C#test\ConsoleApp8\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\C#test\ConsoleApp8\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
